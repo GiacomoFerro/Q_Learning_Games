@@ -63,7 +63,7 @@ Both files (Taxi.py, tabular_q_agent_taxi.py and Roulette.py and tabular_q_agent
 
 ### Authors:
 
-* Giacomo Ferro - *First work* - https://github.com/JackIron
+* Giacomo Ferro - *First work* - https://github.com/GiacomoFerro
 
 ### License:
 
